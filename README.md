@@ -8,3 +8,12 @@ This project aims to predict the Bitcoin prices for 2025 by analyzing historical
 - Data is sourced from Yahoo Finance using the `yfinance` library.
 - Scales and preprocesses data before training the model.
 - Visualizes training loss and predicted vs. actual Bitcoin prices.
+
+## Technologies Used:
+- Python
+- TensorFlow (Keras)
+- NumPy, Pandas
+- Matplotlib
+- yfinance
+- Scikit-learn
+  
