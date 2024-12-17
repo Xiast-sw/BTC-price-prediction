@@ -16,4 +16,3 @@ This project aims to predict the Bitcoin prices for 2025 by analyzing historical
 - Matplotlib
 - yfinance
 - Scikit-learn
-  
