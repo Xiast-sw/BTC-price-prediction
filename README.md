@@ -19,3 +19,6 @@ This project aims to predict the Bitcoin prices for 2025 by analyzing historical
 
 # License
 This project is licensed under the MIT License.
+
+## Contact
+If you have any questions, please reach out via a.bugraaytar@gmail.com
